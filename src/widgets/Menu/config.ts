@@ -117,21 +117,28 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href:   "", //  "https://twitter.com/goosedefi",
+    href:   "https://twitter.com/kcclaunchpad", //  "https://twitter.com/goosedefi",
   },
   {
     label: "Reddit",
     icon: "RedditIcon",
-    href:   "", //  "https://www.reddit.com/r/GooseFinanceofficial",
+    href:   "https://kcclaunchpad.medium.com", //  "https://www.reddit.com/r/GooseFinanceofficial",
   },
   {
     label: "Telegram",
     icon: "TelegramIcon",
-    items: [
-      {
-        label: "English",
-        href: "https://t.me/goosedefi",
-      },
+    href:   "https://t.me/kcclaunchpadd", //  "https://www.reddit.com/r/GooseFinanceofficial",
+  },
+
+
+  // {
+  //   label: "Telegram",
+  //   icon: "TelegramIcon",
+  //   items: [
+  //     {
+  //       label: "English",
+  //       href: "https://t.me/goosedefi",
+  //     },
       // // {
       // //   label: "Bahasa Indonesia",
       // //   href: "https://t.me/PancakeSwapIndonesia",
@@ -180,8 +187,8 @@ export const socials = [
       //   label: "Price Bot",
       //   href: "https://t.me/BinanceRocketEGG",
       // },
-    ],
-  },
+  //   ],
+  // },
 ];
 
 export const MENU_HEIGHT = 64;
